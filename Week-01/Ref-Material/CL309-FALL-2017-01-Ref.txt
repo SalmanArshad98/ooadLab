@@ -1,0 +1,3 @@
+Types of UML:
+Structure diagrams show the things in the modeled system. In a more technical term, they show different objects in a system. 
+Behavioral diagrams show what should happen in a system. They describe how the objects interact with each other to create a functioning system.
